@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Added Phishing Email Analysis Internship Task"
+git branch -M main
+git remote add origin https://github.com/Rakshithapatel/phishing-email-analysis.git
+git push -u origin main
